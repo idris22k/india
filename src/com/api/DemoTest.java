@@ -3,15 +3,11 @@ package com.api;
 public class DemoTest {
 
 	String s2    = "hggshgaf";
+	int i =0;
 	
-	public static void main(String[] args) {
-		
-		System.out.println("ssd");
-		System.out.println("hfuyajfgyuafy");
-		
-		System.out.println("ahgssas");
-		
+	
+
 	}
 	
 	
-}
+
